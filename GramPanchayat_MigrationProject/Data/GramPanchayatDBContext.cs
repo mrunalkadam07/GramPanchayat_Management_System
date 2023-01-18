@@ -14,6 +14,7 @@ namespace GramPanchayat_MigrationProject.API.Data
         }
 
         public DbSet<LoginModel> Login1 { get; set; }
+        public DbSet<MarriageRegModel> MarriageReg {get; set;}
 
          protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
