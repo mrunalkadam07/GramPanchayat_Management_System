@@ -6,6 +6,7 @@ import { Layout } from './components/Layout';
 import { Login } from './components/Login/Login';
 import './custom.css';
 import './Login.css';
+import './PropertyTaxPaid.css';
 import {
   BrowserRouter as Router,
 } from "react-router-dom";

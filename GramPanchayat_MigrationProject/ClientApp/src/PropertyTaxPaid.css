@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+  }
+  .row{
+    line-height: 30px;
+  }
+  /* *{
+    background-color: blanchedalmond;
+    
+  } */
+  .form-control{
+    background-color: beige;
+  }
+  .form-label{
+    color: red;
+  }
+  
+  .rightdiv {
+    float: right;
+    width: 40%;
+  
+  }
+  
+  .leftdiv {
+    float: left;
+    width: 50%;
+    padding-left: 10%;
+  }
+  
+  label {
+    width: 280px;
+    display: inline-block;
+  } 
